@@ -126,23 +126,17 @@ p {
     background-color: #27AE60;
 }
 
-.lead-generation,
-.brand-awareness,
-.cost-management {
+.benefits-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.lead-generation h3,
-.brand-awareness h3,
-.cost-management h3 {
+.benefits-section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.lead-generation img,
-.brand-awareness img,
-.cost-management img {
+.benefits-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;

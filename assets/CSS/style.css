@@ -78,7 +78,7 @@ a {
 }
 
 .GitHub,
-.fireworks-sky,
+.portfolio,
 .contact-form {
     margin-bottom: 20px;
     padding: 50px;
@@ -88,13 +88,13 @@ a {
 }
 
 .GitHub img,
-.fireworks-sky img,
+.portfolio img,
 .contact-form img {
     max-height: 200px;
 }
 
 .GitHub h2,
-.fireworks-sky h2,
+.portfolio h2,
 .contact-form h2 {
     margin-bottom: 20px;
     font-size: 36px;

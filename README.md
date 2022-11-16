@@ -29,7 +29,7 @@ The Search Bar at the top has three different options:
 * Online Reputation Management
 * Social Media Marketing
 
-    ![alt text](assets/images/horiseon-screenshot-cropped.png)
+    ![alt text](assets/images/horiseon-screenshot.png)
 
 Click on any of these topics to navigate to the relevant section below.
 

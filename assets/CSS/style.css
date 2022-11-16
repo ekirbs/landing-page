@@ -30,7 +30,7 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header h1 .Kirb {
     color: #e0d20d;
 }
 
@@ -77,8 +77,8 @@ a {
     margin-left: 20px;
 }
 
-.search-engine-optimization,
-.online-reputation-management,
+.GitHub,
+.fireworks-sky,
 .contact-form {
     margin-bottom: 20px;
     padding: 50px;
@@ -87,14 +87,14 @@ a {
     color: #ffffff;
 }
 
-.search-engine-optimization img,
-.online-reputation-management img,
+.GitHub img,
+.fireworks-sky img,
 .contact-form img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2,
-.online-reputation-management h2,
+.GitHub h2,
+.fireworks-sky h2,
 .contact-form h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -161,7 +161,6 @@ p {
     padding: 30px;
     clear: both;
     text-align: center;
-    display: none;
 }
 
 .footer h2 {
